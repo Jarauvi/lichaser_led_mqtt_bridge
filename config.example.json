@@ -1,0 +1,12 @@
+{
+    "mac_addr": "xx:xx:xx:xx:xx:xx",
+    "mqtt_broker": "broker_ip",
+    "mqtt_port": 1883,
+    "mqtt_user": "your_user",
+    "mqtt_password": "your_password",
+    "last_r": 255,
+    "last_g": 255,
+    "last_b": 255,
+    "last_br": 255,
+    "last_eff": "None"
+}
